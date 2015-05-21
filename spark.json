@@ -1,0 +1,7 @@
+{
+  "name": "PhoBot_SparkCore",
+  "author": "Simon Monk <simon@monkmakes.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A library for the MonkMakes PhoBot robot controller shield with SparkCore. For Photon use the library PhoBot"
+}
